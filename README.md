@@ -1,1 +1,1 @@
-# epam-traininggs-2023
+# epam-traininggs
